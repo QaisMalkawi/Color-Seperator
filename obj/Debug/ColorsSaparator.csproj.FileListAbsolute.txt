@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ColorsSaparator\bin\Debug\ColorsSaparator.exe.config
+C:\Users\User\source\repos\ColorsSaparator\bin\Debug\ColorsSaparator.exe
+C:\Users\User\source\repos\ColorsSaparator\bin\Debug\ColorsSaparator.pdb
+C:\Users\User\source\repos\ColorsSaparator\obj\Debug\ColorsSaparator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ColorsSaparator\obj\Debug\ColorsSaparator.Form1.resources
+C:\Users\User\source\repos\ColorsSaparator\obj\Debug\ColorsSaparator.Properties.Resources.resources
+C:\Users\User\source\repos\ColorsSaparator\obj\Debug\ColorsSaparator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ColorsSaparator\obj\Debug\ColorsSaparator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ColorsSaparator\obj\Debug\ColorsSaparator.exe
+C:\Users\User\source\repos\ColorsSaparator\obj\Debug\ColorsSaparator.pdb
